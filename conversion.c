@@ -9,6 +9,6 @@ int main()
     int lower = strlwr(s) ;
     printf("%s" , s) ;
 
-
+/*amgajkfbjkafhjk*/
     return 0 ;
 }
