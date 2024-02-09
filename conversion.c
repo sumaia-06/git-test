@@ -9,6 +9,10 @@ int main()
     int lower = strlwr(s) ;
     printf("%s" , s) ;
 
-/*amgajkfbjkafhjk*/
+/*amgajkfbjk
+sfkjklf
+dkjdf
+djdf
+afhjk*/
     return 0 ;
 }
